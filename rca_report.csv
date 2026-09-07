@@ -1,0 +1,17 @@
+Start,End,Duration_readings,Max_Deviation_bar,Root_Cause_Hypothesis
+2026-01-02 05:10:00,2026-01-02 05:10:00,1,9.34,Undetermined - Review Manually
+2026-01-02 10:50:00,2026-01-02 10:50:00,1,15.7,Undetermined - Review Manually
+2026-01-03 16:30:00,2026-01-03 16:30:00,1,8.4,Undetermined - Review Manually
+2026-01-04 10:20:00,2026-01-04 10:20:00,1,9.99,Undetermined - Review Manually
+2026-01-04 16:30:00,2026-01-04 16:30:00,1,-9.15,Suspected Suction Valve Throttling or Leak
+2026-01-05 08:20:00,2026-01-05 08:20:00,1,-8.42,Suspected Suction Valve Throttling or Leak
+2026-01-05 11:10:00,2026-01-05 11:10:00,1,-10.7,Suspected Impeller Wear / Recirculation
+2026-01-06 13:20:00,2026-01-06 13:40:00,3,0.77,Undetermined - Review Manually
+2026-01-06 14:00:00,2026-01-06 14:00:00,1,3.04,Undetermined - Review Manually
+2026-01-08 15:30:00,2026-01-08 15:30:00,1,-8.87,Suspected Suction Valve Throttling or Leak
+2026-01-09 01:20:00,2026-01-09 01:20:00,1,-9.11,Suspected Suction Valve Throttling or Leak
+2026-01-09 23:10:00,2026-01-09 23:10:00,1,10.49,Undetermined - Review Manually
+2026-01-10 08:20:00,2026-01-10 08:20:00,1,-7.04,Suspected Suction Valve Throttling or Leak
+2026-01-10 09:50:00,2026-01-10 09:50:00,1,-7.29,Suspected Suction Valve Throttling or Leak
+2026-01-10 10:50:00,2026-01-10 10:50:00,1,7.72,Undetermined - Review Manually
+2026-01-10 13:00:00,2026-01-10 13:00:00,1,8.23,Undetermined - Review Manually
